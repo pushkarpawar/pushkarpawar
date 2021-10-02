@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pushkarpawar
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning Redhat Openshift
-- 💞️ I’m looking to collaborate on Devops Project
-- 📫 How to reach on iampushkarpawar@gamil.com
+- 👋 Hi
+- 👀 DevOps Enthusiast
+- 🌱 Learning Redhat Openshift
+- 💞️ Ping to Collab on any Devops Project
+- 📫 Contact me on iampushkarpawar@gamil.com
 
 <!---
 pushkarpawar/pushkarpawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
